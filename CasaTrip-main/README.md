@@ -37,6 +37,6 @@ CasaTrip is a full-stack web application for booking and listing rental stays, i
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/anjali-rayy/CasaTrip.git
+git clone https://github.com/saanikanurbhash06/CasaTrip.git
 cd CasaTrip
 npm install
